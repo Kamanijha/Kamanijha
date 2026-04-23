@@ -1,6 +1,6 @@
 # Hi, I'm Kamani Jha 👋
 
-Automation Engineer based in **Delhi NCR**. I build test frameworks, AI-assisted QA tools, and production-grade automation solutions.
+Automation Engineer based in **Darbhanga NCR**. I build test frameworks, AI-assisted QA tools, and production-grade automation solutions.
 
 **→ Currently:** Prompt Engineering Intern @ AutomationPro  
 **→ Open to:** Automation Engineer, QA Automation Engineer, SDET, AI Automation Engineer roles
@@ -45,7 +45,7 @@ See architecture + benchmarks in each repo.
 - **Prompt Engineering Intern**, AutomationPro (Mar 2026 – present)
 - **Freelance Automation + AI Projects** (Feb 2025 – present)
 - **Software Testing + Selenium + Java**, QSpiders Noida (4–6 months)
-- **BSc Zoology (Hons.)**, Delhi
+- **BSc Zoology (Hons.)**, Darbhanga
 
 ---
 
